@@ -4,12 +4,12 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #050510;
+    background: #df7008;
     font-family: sans-serif;
 }
 
 canvas {
-    border: 2px solid #222;
+    border: 2px solid #767373;
     box-shadow: 0 0 20px rgba(255, 204, 102, 0.1);
     max-width: 100%;
 }
